@@ -1,0 +1,6 @@
+makefile is pretty interesting. I found it on the internet and it has some interesting lines
+-Wall -g3 -fsanitize=address
+
+I dont know what these lines mean but i get a severe error in task 1 because of these lines. but in task 2 i dont get any errors because of these lines. 
+
+Barış
